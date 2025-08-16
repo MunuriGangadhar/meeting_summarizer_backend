@@ -1,0 +1,4 @@
+Meeting Date: 2025-08-15
+Attendees: Alice, Bob, Charlie
+Discussion: Project timelines, resource allocation, and budget approval.
+Action Items: Alice to finalize timeline by 2025-08-20, Bob to submit budget report.
